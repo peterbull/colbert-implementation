@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "colbert-implementation"
+  site-url: "https://peterbull.github.io/colbert-implementation"
+  description: "a re-implementation of colbert methods"
+  repo-branch: main
+  repo-url: "https://github.com/peterbull/colbert-implementation"
